@@ -1,2 +1,2 @@
 # mymath
-a simple math module 
+a simple python math module 
