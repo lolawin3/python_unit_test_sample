@@ -1,2 +1,2 @@
-# mymath
-a simple python math module 
+# python_unit_test
+a sample python module for unit test
